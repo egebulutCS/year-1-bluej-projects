@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TestCollege
+comment0.text=\r\n\ This\ class\ is\ a\ test\ class\ for\ College\ class.\r\n\r\n\ @author\ (Ege\ Bulut)\r\n\ @version\ (21.11.2017)\r\n
+comment1.params=
+comment1.target=TestCollege()
+comment2.params=
+comment2.target=void\ allPositiveTest()
+comment3.params=
+comment3.target=void\ NegativeStudentNo()
+comment4.params=
+comment4.target=void\ NegativeBookNo()
+comment5.params=
+comment5.target=void\ NegativeSteps()
+numComments=6

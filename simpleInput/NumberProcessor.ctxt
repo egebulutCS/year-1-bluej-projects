@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NumberProcessor()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NumberProcessor\r\n
+comment1.params=n
+comment1.target=void\ sum(int)
+comment2.params=n
+comment2.target=void\ maximum(int)
+comment3.params=n
+comment3.target=void\ sumAndMaximum(int)
+comment4.params=n
+comment4.target=void\ sumForLoop(int)
+comment5.params=n
+comment5.target=void\ maximumForLoop(int)
+comment6.params=n
+comment6.target=void\ sumAndMaximumForLoop(int)
+numComments=7

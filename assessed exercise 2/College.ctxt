@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=College
+comment0.text=\r\n\ College\ class\ is\ a\ main\ class\ which\ runs\ the\ code.\r\n\r\n\ @author\ (Ege\ Bulut)\r\n\ @version\ (21.11.2017)\r\n
+comment1.params=studentNo\ bookNo
+comment1.target=College(int,\ int)
+comment1.text=\r\n\ Its\ purpose\ is\ to\ initialise\ global\ fields.<p>\r\n\ Constructor.<p>\r\n\ Integer\ type\ studentNo,\ Integer\ type\ bookNo.<p>\r\n\ @param\ studentNo\ parameter\ sets\ the\ limit\ of\ student\ array\ list.\r\n\ @param\ bookNo\ parameter\ sets\ the\ number\ of\ books\ that\ is\ kept\ in\ the\ library.\r\n
+comment2.params=
+comment2.target=void\ describe()
+comment2.text=\r\n\ Its\ purpose\ is\ to\ print\ the\ description\ of\ the\ state\ of\ the\ class\ and\ its\ fields.<p>\r\n\ type\ void.\r\n
+comment3.params=
+comment3.target=void\ nextStep()
+comment3.text=\r\n\ Its\ purpose\ is\ to\ check\ the\ list\ and\ control\ the\ students\ according\ to\ its\ state.<p>\r\n\ type\ void.<p>\r\n
+comment4.params=nSteps
+comment4.target=void\ runCollege(int)
+comment4.text=\r\n\ Its\ purpose\ is\ to\ run\ the\ methods\ of\ college\ class.<p>\r\n\ type\ void.<p>\r\n\ Integer\ type\ nSteps.<p>\r\n\ @param\ nSteps\ indicates\ the\ amount\ of\ number\ of\ loops\ this\ method\ will\ do.<p>\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Its\ purpose\ is\ to\ make\ the\ class\ executable\ by\ command\ prompt\ by\ creating\ a\ new\ class.<p>\r\n\ type\ void.<p>\r\n\ String\ type\ Array\ args.<p>\r\n\ @param\ args\ hold\ the\ values\ that\ will\ be\ used\ for\ when\ running\ other\ methods.<p>\r\n
+numComments=6

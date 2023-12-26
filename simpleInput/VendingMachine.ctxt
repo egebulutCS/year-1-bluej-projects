@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VendingMachine()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ VendingMachine\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ displayTotals()
+numComments=3

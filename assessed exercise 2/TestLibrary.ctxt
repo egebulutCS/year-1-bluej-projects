@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TestLibrary
+comment0.text=\r\n\ This\ class\ is\ a\ test\ class\ for\ Library\ class.\r\n\r\n\ @author\ (Ege\ Bulut)\r\n\ @version\ (21.11.2017)\r\n
+comment1.params=
+comment1.target=TestLibrary()
+comment2.params=
+comment2.target=void\ positiveTest()
+comment3.params=
+comment3.target=void\ zeroTest()
+comment4.params=
+comment4.target=void\ negativeTest()
+numComments=5

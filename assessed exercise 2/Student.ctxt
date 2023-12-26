@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Student\ class\ is\ a\ helper\ class\ which\ is\ used\ by\ College\ class.\r\n\r\n\ @author\ (Ege\ Bulut)\r\n\ @version\ (21.11.2017)\r\n
+comment1.params=name\ library
+comment1.target=Student(java.lang.String,\ Library)
+comment1.text=\r\n\ Its\ purpose\ is\ the\ initialise\ global\ fields.<p>\r\n\ Constructor.<p>\r\n\ String\ type\ name\ and\ Library\ type\ library.\r\n\ @param\ name\ is\ used\ to\ take\ an\ input\ name\ for\ a\ student.\r\n\ @param\ library\ is\ used\ to\ set\ the\ library\ class.\r\n
+comment2.params=
+comment2.target=boolean\ finishedStudies()
+comment2.text=\r\n\ Its\ purpose\ is\ to\ check\ if\ a\ student\ has\ a\ book\ and\ if\ the\ student\ can\ borrow\ any\ more.<p>\r\n\ type\ boolean.\r\n\ @return\ True,\ if\ both\ of\ the\ conditions\ are\ met.\r\n
+comment3.params=
+comment3.target=void\ study()
+comment3.text=\r\n\ Its\ purpose\ is\ to\ make\ the\ student\ borrow\ a\ book\ if\ there\ is\ none;\ otherwise\ check\ if\ the\ book\ is\ finished.<p>\r\n\ type\ void.\r\n\ If\ it\ is\ not\ increase\ chapters\ read\ by\ one;\ otherwise\ return\ the\ book\ back\ to\ the\ library.<p>\r\n
+comment4.params=
+comment4.target=void\ describe()
+comment4.text=\r\n\ Its\ purpose\ is\ to\ print\ out\ the\ state\ of\ the\ student.<p>\r\n\ type\ void.\r\n
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rainfall()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rainfall\r\n
+comment1.params=days
+comment1.target=void\ getStatistics(int)
+numComments=2

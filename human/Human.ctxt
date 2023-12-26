@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Human
+comment0.text=\r\n\ The\ Human\ class\ -\ written\ for\ exercises\ in\ lab\ class\ 3\r\n\ \r\n\ @author\ Rudi\ Lutz\ \r\n\ @version\ 17/10/2005\r\n
+comment1.params=theName\ personAge
+comment1.target=Human(java.lang.String,\ int)
+comment10.params=person
+comment10.target=void\ setMother(Human)
+comment2.params=
+comment2.target=int\ getAge()
+comment3.params=
+comment3.target=void\ birthday()
+comment4.params=
+comment4.target=Pet\ getPet()
+comment5.params=thePet
+comment5.target=void\ setPet(Pet)
+comment6.params=
+comment6.target=void\ strokePet()
+comment7.params=
+comment7.target=void\ petsBirthday()
+comment8.params=
+comment8.target=int\ getPetAge()
+comment9.params=
+comment9.target=Human\ getMother()
+numComments=11

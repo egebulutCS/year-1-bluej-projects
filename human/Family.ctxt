@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Family
+comment0.text=\r\n\ Class\ Family\:\ you\ will\ need\ to\ define\ various\ methods\ in\ Human\ and\ Pet\ \r\n\ before\ using\ this\ class\ and\ uncomment\ the\ relevant\ lines\ of\ code\ below.\r\n
+comment1.params=
+comment1.target=Family()
+comment2.params=
+comment2.target=void\ test()
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Library
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Library\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=shelfLimit
+comment1.target=Library(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Library\r\n
+comment2.params=limit
+comment2.target=LibraryCard\ issueCard(int)
+comment3.params=card
+comment3.target=TextBook\ borrowBook(LibraryCard)
+comment4.params=book
+comment4.target=void\ returnTextBook(TextBook)
+comment5.params=
+comment5.target=void\ describe()
+comment6.params=
+comment6.target=java.lang.String\ print()
+numComments=7

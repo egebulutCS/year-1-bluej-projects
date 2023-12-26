@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Singer
+comment0.text=\ \r\n\ This\ class\ forms\ the\ basis\ for\ some\ exercises\ in\ lab\ class\ 2\r\n
+comment1.params=
+comment1.target=Singer()
+comment2.params=
+comment2.target=void\ sing()
+comment3.params=
+comment3.target=void\ sing1()
+comment4.params=
+comment4.target=boolean\ isSad()
+comment5.params=
+comment5.target=boolean\ isSad1()
+comment6.params=
+comment6.target=boolean\ badIsSad()
+comment7.params=
+comment7.target=void\ changeMood()
+numComments=8

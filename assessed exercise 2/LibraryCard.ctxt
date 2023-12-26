@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LibraryCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\r\n\ @author\ (Ege\ Bulut)\r\n\ @version\ (21.11.2017)\r\n
+comment1.params=idNum\ maxNum
+comment1.target=LibraryCard(int,\ int)
+comment2.params=
+comment2.target=void\ swipe()
+comment3.params=
+comment3.target=boolean\ expired()
+comment4.params=
+comment4.target=java.lang.String\ getCardRef()
+comment5.params=
+comment5.target=void\ describe()
+numComments=6

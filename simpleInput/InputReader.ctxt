@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=InputReader()
+comment0.text=\nCreate\ a\ new\ InputReader\ that\ reads\ text\ from\ the\ text\ terminal.\n\n
+comment1.params=prompt
+comment1.target=ArrayList<String>\ getInput(String)
+comment1.text=\nRead\ a\ line\ of\ text\ from\ standard\ input\ (the\ text\ terminal),\ and\nreturn\ it\ as\ a\ set\ of\ words.\n\n@return\ \ A\ set\ of\ Strings,\ where\ each\ String\ is\ one\ of\ the\ words\ntyped\ by\ the\ user\n\n
+comment2.target=String\ readInputLine()
+comment2.text=\nRead\ one\ line\ of\ input\ and\ return\ it\ as\ a\ String.\ \n\n@return\ \ A\ Strings\ representing\ the\ input,\ or\ an\ empty\ String\ if\ an\ error\ occurs.\n\n
+comment3.params=prompt
+comment3.target=int\ getInt(String)
+numComments=4
